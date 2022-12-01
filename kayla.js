@@ -532,7 +532,7 @@ templateButtons: [
 ]})
 }
 
-const botzkayla = "6283817161861@s.whatsapp.net"
+const botzkayla = "6285878836361@s.whatsapp.net"
 const mark = "0@s.whatsapp.net"
 const timestamp = speed()
 const latensi = speed() - timestamp
